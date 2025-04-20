@@ -1,7 +1,7 @@
 # Instagram Automation
 A sample code to login to Instagram, monitor a page, and post a comment as soon as you see a new post.
 
-![Instagram Automation](https://github.com/user-attachments/assets/3781303f-9488-476c-b17a-2a957dbdf79f)
+[Instagram Automation](https://github.com/user-attachments/assets/3781303f-9488-476c-b17a-2a957dbdf79f)
 
 ## Run
 1. Add your Instagram `username` and `password` to the `.env` file.
